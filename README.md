@@ -2,6 +2,7 @@
 # Japanese
 
 Japanese is an open-source translation bot for translating 100+ different languages on Discord.
+[**Invite the bot here!**](https://discord.com/api/oauth2/authorize?client_id=1025933265242177656&scope=bot+applications.commands)
 
 
 
